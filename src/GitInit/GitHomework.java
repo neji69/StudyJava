@@ -1,6 +1,11 @@
 package GitInit;
 
 public class GitHomework {
-    int goga = 1;
-    String zhenya = "ZHEENYAAA";
+
+    public static void main(String[] args) {
+        int goga = 1;
+        String zhenya = "ZHEENYAAA";
+        System.out.println("Hello world!");
+    }
+
 }
